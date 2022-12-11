@@ -98,15 +98,9 @@ a {
     text-decoration: none;
 }
 
-button{
-    background-color: rgb(247, 247, 232);
-    color: rgb(90, 76, 51);
-    border: rgb(90, 76, 51) solid;
-    height: 30px;
-    width: 120px;
-    border-radius: 10px 10px 10px 10px;
-    font-family: calibri;
-    font-weight: bold;
+.icon {
+    height: 42px;
+    width: 42px;
 }
 
 nav {
